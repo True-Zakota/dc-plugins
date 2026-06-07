@@ -1,18 +1,14 @@
 {
-    "name": "ActionSheetFinder",
-    "description": "Utility plugin to find ActionSheet key of pressed sheet. Port of Enmity plugin.",
+    "name": "FakeCreationDate",
+    "description": "Ajoute des dates custom sur ton profil (côté client).",
     "authors": [
         {
-            "name": "Rico040",
-            "id": "619474349845643275"
-        },
-        {
-            "name": "byeoon",
-            "id": "1167275288036655133"
+            "name": "True-Zakota",
+            "id": "322693611533631488"
         }
     ],
-    "main": "src/index.tsx",
+    "main": "index.ts",
     "vendetta": {
-        "icon": "ic_search"
+        "icon": "ic_person"
     }
 }
