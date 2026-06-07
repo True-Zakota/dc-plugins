@@ -8,12 +8,12 @@ Copy & Paste a plugin URL into the Plugins page of Bunny.
 ## Action Sheet Finder
 Utility plugin to find ActionSheet key of pressed sheet. Port of Enmity plugin.
 
-> https://rico040.github.io/bunny-plugins/action-sheet-finder/
+> https://true-zakota.github.io/dc-plugins/action-sheet-finder/
 
 ## BrainF*ckEval
 Adds /bfeval command.
 
-> https://rico040.github.io/bunny-plugins/bf-eval/
+> https://true-zakota.github.io/dc-plugins/bf-eval/
 
 ## Dislate Lite
 Translates text into a desired language.
@@ -23,7 +23,7 @@ Translates text into a desired language.
 ## Freemoji
 Allows you to use Nitro emoji without Nitro.
 
-> https://rico040.github.io/bunny-plugins/freemoji/
+> https://true-zakota.github.io/dc-plugins/always-animate/
 
 ## HideAppButton
 Hides app button from chatbox.
